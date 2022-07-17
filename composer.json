@@ -11,5 +11,10 @@
         "psr-4": {
           "putyourlightson\\redactorarialabel\\": "src/"
         }
+    },
+    "extra": {
+        "name": "Redactor Aria Label",
+        "handle": "redactor-aria-label",
+        "class": "putyourlightson\\redactorarialabel\\RedactorAriaLabel"
     }
 }
