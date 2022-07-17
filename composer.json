@@ -11,19 +11,5 @@
         "psr-4": {
           "putyourlightson\\redactorarialabel\\": "src/"
         }
-    },
-    "support": {
-        "docs": "https://github.com/putyourlightson/craft-redactor-aria-label",
-        "source": "https://github.com/putyourlightson/craft-redactor-aria-label",
-        "issues": "https://github.com/putyourlightson/craft-redactor-aria-label/issues"
-    },
-    "extra": {
-        "name": "Redactor Aria Label",
-        "handle": "redactor-aria-label",
-        "developer": "PutYourLightsOn",
-        "developerUrl": "https://putyourlightson.com/",
-        "documentationUrl": "https://github.com/putyourlightson/craft-redactor-aria-label",
-        "changelogUrl": "https://raw.githubusercontent.com/putyourlightson/craft-redactor-aria-label/v1/CHANGELOG.md",
-        "class": "putyourlightson\\redactorarialabel\\RedactorAriaLabel"
     }
 }
